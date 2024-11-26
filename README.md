@@ -1,1 +1,1 @@
-# mvc-taskmanager-proj
+# swing-taskmanager-proj
